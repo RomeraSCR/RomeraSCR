@@ -51,8 +51,10 @@ Além da área profissional, também invisto meu tempo livre em **desenvolviment
 </div>
 
 ---
-## 🌐 Faça parte da nossa comunidade
+## 📢 Canais Oficiais
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TKQRXJU8)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RomeraSCR)
 
 ---
 
